@@ -15,22 +15,8 @@
 
 
 ## 💪 기여도
-비즈프린트의 컨텐츠를 제작할 수 있는  Content Management System(이하 CMS)를 DB설계부터 기능 개발까지 전부 담당했습니다.
-
-<details>
-<summary> 💻 CMS 메뉴 구성도</summary>
-<div markdown="1">     
-  
+비즈프린트의 컨텐츠를 제작할 수 있는  Content Management System(이하 CMS)를 DB설계부터 기능 개발까지 전부 담당했습니다.  
 ![image](https://github.com/whitewise95/portfolio/assets/81284265/4a11ceab-1859-458d-acf7-441687bb153c)
-
-</div>
-</details>
-   
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## ✨ 주요 기능
@@ -64,7 +50,18 @@
 
 <Br>
 <Br>
-<Br>
 
 ### 💻 전체 회원 대상 메일 발송 시스템 - [Wiki 보러 가기]()
 - 메일 발송시 대량처리를 위한 비동기 병렬처리
+
+
+
+
+<Br>
+<Br>
+<Br>
+<Br>
+
+
+
+
